@@ -1,0 +1,33 @@
+header {
+    background-image: url("images/image-1.jpeg");
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.brush, .frame, .paint {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.offer {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
+.brush {
+    background-color: mediumspringgreen;
+}
+
+.frame {
+    background: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
+}
